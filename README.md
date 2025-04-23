@@ -50,7 +50,7 @@ NEXTECH is a cutting-edge web application showcasing fictional technology produc
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nextech.git
+git clone https://github.com/joseook/nextech.git
 cd nextech
 
 # Install dependencies
